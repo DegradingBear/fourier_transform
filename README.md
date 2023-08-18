@@ -1,1 +1,2 @@
 # fourier_transform
+performs a fourier transform on a discrete set of points given by the user 'drawing' them on the top half of the canvas. The fourier transform is then visualised by a series of 'tip to tail' circles that are each rotating with a constant speed, the sum of these rotations culminating in copying out the exact path given to create the fourier transform. This is much cooler in person, so just download the files and open index.html in your browser to play with it yourself!
